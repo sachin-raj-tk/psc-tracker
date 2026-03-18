@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/psc-tracker/static/css/main.5f4110c7.css",
+    "main.js": "/psc-tracker/static/js/main.216d2e02.js",
+    "index.html": "/psc-tracker/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5f4110c7.css",
+    "static/js/main.216d2e02.js"
+  ]
+}
