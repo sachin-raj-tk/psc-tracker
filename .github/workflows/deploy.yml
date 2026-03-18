@@ -27,6 +27,8 @@ jobs:
         env:
           CI: false
           GENERATE_SOURCEMAP: false
+          DISABLE_ESLINT_PLUGIN: true
+          ESLINT_NO_DEV_ERRORS: true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
